@@ -1,6 +1,6 @@
 {
   "name": "naf-weixin",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "naf weixin api util tools lib",
   "main": "index.js",
   "scripts": {
