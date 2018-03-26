@@ -1,0 +1,26 @@
+{
+  "name": "naf-weixin",
+  "version": "0.0.1",
+  "description": "naf weixin api util tools lib",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naf-suite/naf-weixin.git"
+  },
+  "keywords": [
+    "weixin"
+  ],
+  "author": "dyg@dygapp.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naf-suite/naf-weixin/issues"
+  },
+  "homepage": "https://github.com/naf-suite/naf-weixin#readme",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
+  }
+  
+}
